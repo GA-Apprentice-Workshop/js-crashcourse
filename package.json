@@ -1,0 +1,23 @@
+{
+  "name": "GameEngine",
+  "version": "0.1.0",
+  "description": "A static `express` server.",
+  "main": "server.js",
+  "repository": "",
+  "author": "None",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "errorhandler": "^1.4.2",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "jade": "^1.11.0",
+    "method-override": "^2.3.5",
+    "morgan": "^1.6.1",
+    "multer": "^1.1.0",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.3.0"
+  },
+  "devDependencies": {
+    "jade": "^1.11.0"
+  }
+}
